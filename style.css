@@ -1,0 +1,148 @@
+body {
+    background-color: rgba(0, 0, 0, 0.801);
+   
+}
+.eng{
+    width: 95mm;
+    height: 70mm;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+iframe{
+    width: 118mm;
+    height: 90mm;
+    margin-right: 13.5x;
+    margin-left: 13.5px;
+    box-shadow: 0px, 0px , 0px, 5px ;
+}
+table{
+    border: 8px darkblue dashed;
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.brend {
+    display: flex;
+    width: 155mm;
+    height: 155mm;
+    margin-left: 640px;
+    justify-content: center;
+    margin-right: 640px;
+}
+.asosiy{
+    color: blue;
+    margin: 100px 100px 100px 100px;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.nav{
+    margin-top: 40px;
+    background-color: black;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    border: 30px black solid;
+}
+.a1{
+    color: black;
+    font-size: 70px;
+    background-color: rgb(255, 153, 0);
+    padding-right: 369px;
+    margin-top: 50px;
+    border: 10px rgb(255, 153, 0) solid;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.a2{
+    color: black;
+    font-size: 70px;
+    background-color: rgb(255, 153, 0);
+    padding-right: 300px;
+    margin-top: 50px;
+    border: 10px rgb(255, 153, 0) solid;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.a3{
+    color: black;
+    font-size: 70px;
+    background-color: rgb(255, 153, 0);
+    padding-right: 385px;
+    margin-top: 50px;
+    border: 10px rgb(255, 153, 0) solid;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.a4{
+    color: black;
+    font-size: 70px;
+    background-color: rgb(255, 153, 0);
+    padding-right: 292px;
+    margin-top: 50px;
+    border: 10px rgb(255, 153, 0) solid;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+.a5{
+    color: black;
+    font-size: 70px;
+    background-color: rgb(255, 153, 0);
+    padding-right: 345px;
+    margin-top: 50px;
+    border: 10px rgb(255, 153, 0) solid;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+
+ul{
+    color: white;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    margin-top: 30px ;
+}
+.q{
+    width: 78mm;
+    height: 71mm;
+    margin-left: 6px;
+    margin-right: 6px;
+    opacity: 0.5;
+}
+.ud{
+    border: 5px solid cyan ;
+}
+footer{
+    margin-top: 50px;
+    background-color: brown;
+    border: 30px brown solid;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.q:hover{
+    opacity: 1;
+    transform: scale(1.1);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 3px;
+    transition: 0.75s ease-in-out;
+}
+footer p{
+    font-size: 20px;
+    color: yellow;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0px;
+}
+.p1{
+    color: greenyellow;
+}
+.p2{
+    color: lightskyblue;
+}
